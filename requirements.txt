@@ -1,4 +1,4 @@
-fastapi
+pip install "fastapi[standard]"
 uvicorn
 sqlalchemy
 pydicom
